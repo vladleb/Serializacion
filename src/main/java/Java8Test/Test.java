@@ -42,6 +42,7 @@ public class Test {
         List<String> gg = Arrays.stream(hello.split(" ")).collect(Collectors.toList());
         String[] a = gg.toArray(new String[0]);
         System.out.println(Arrays.toString(a));
+        System.out.println();
 
     }
 
