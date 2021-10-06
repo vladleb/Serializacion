@@ -1,0 +1,5 @@
+
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(Éó£üÿÿÿÿ8¥Ëøá»/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ù×ÎÏıÿÿÿÿ8¦Ëøá»/
